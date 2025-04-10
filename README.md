@@ -7,11 +7,12 @@
 
 ### 🧠 About Me
 
-- 🎓 Master's student in **Data Analytics for Business and Economics** @ HSE Saint Petersburg  
+- 🎓 Master's student in **Data Analytics for Business and Economics** @ HSE Saint Petersburg
+- 🎓 Bachelor's in **Mathematics and statistics** @ University of Calicut Kerala  
 - 🤖 Passionate about **Machine Learning**, **Natural Language Processing**, and **AI Ethics in BRICS**
 - 💻 Frontend Developer (React.js, Tailwind CSS, API integrations)
 - 📊 Experienced in building **ETL pipelines**, **Power BI dashboards**, and **ML model validation**
-- 🌏 International exposure across India 🇮🇳 and Russia 🇷🇺
+- 🌏 International exposure across Kerala kl and Russia 🇷🇺
 - 🏆 **Winner at BRICS International School 2024**
 
 📫 How to reach me:  
