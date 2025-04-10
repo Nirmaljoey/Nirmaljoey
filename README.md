@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmaljoy&label=Profile%20views&color=0e75b6&style=flat" alt="nirmaljoy" />
 </p>
+---
 ### 🧠 About Me
 
 - 🎓 Master's student in **Data Analytics for Business and Economics** @ HSE Saint Petersburg  
