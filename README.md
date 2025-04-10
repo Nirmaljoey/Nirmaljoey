@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Nirmal Joy 👋</h1>
+<h1 align="center">Hi there, I'm Nirmal Joy Parekunnel 👋</h1>
 <h3 align="center">🚀 Data Analyst | NLP & Machine Learning Enthusiast | Frontend Developer | BRICS Researcher</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirmaljoy&label=Profile%20views&color=0e75b6&style=flat" alt="nirmaljoy" />
+  <img src="https://komarev.com/ghpvc/?username=nirmaljoey&label=Profile%20views&color=0e75b6&style=flat" alt="nirmaljoy" />
 </p>
----
+
 ### 🧠 About Me
 
 - 🎓 Master's student in **Data Analytics for Business and Economics** @ HSE Saint Petersburg  
@@ -14,7 +14,6 @@
 - 🌏 International exposure across India 🇮🇳 and Russia 🇷🇺
 - 🏆 **Winner at BRICS International School 2024**
 
----
 
 ### 💡 What I Do
 
@@ -46,8 +45,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmaljoy&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmaljoy&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmaljoey&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmaljoey&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -73,6 +72,6 @@
 
 ### 💬 Fun Fact
 
-I’m teaching **Malayalam to Russian students** and learning **local Russian slang** while analyzing **multilingual NLP** models — because borders don’t stop data! 🌍📊
+I’m teaching **Malayalam to Russians** and learning **local Russian slang** while analyzing **multilingual NLP** models — because borders don’t stop data! 🌍📊
 
 ---
