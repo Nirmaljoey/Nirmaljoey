@@ -15,7 +15,7 @@
 - 🏆 **Winner at BRICS International School 2024**
 
 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/nirmaljoy) | [Email](mailto:nirmaljoyofficial@gmail.com) | [Telegram](https://t.me/nirmaljoyparekunnel)
+  [LinkedIn](https://www.linkedin.com/in/nirmaljoy) | [Email](mailto:nirmaljoyofficial@gmail.com) | [Telegram](https://t.me/nirmalparekunnel)
 
 ### 💡 What I Do
 
@@ -78,7 +78,7 @@
 
 <a href="https://www.linkedin.com/in/nirmaljoy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nirmaljoyofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/nirmaljoyparekunnel"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/nirmalparekunnel"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ---
 
