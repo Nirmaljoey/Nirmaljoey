@@ -14,6 +14,8 @@
 - 🌏 International exposure across India 🇮🇳 and Russia 🇷🇺
 - 🏆 **Winner at BRICS International School 2024**
 
+📫 How to reach me:  
+  [LinkedIn](https://www.linkedin.com/in/nirmaljoy) | [Email](mailto:nirmaljoyofficial@gmail.com) | [Telegram](https://t.me/nirmaljoyparekunnel)
 
 ### 💡 What I Do
 
@@ -42,14 +44,29 @@
 
 ---
 
+### 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=spacy)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=yellow)  
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+---
+
 ### 📊 GitHub Stats
 
-![Nirmaljoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirmaljoey&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmaljoey&layout=compact&theme=radical)
+![Nirmaljoey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmaljoey&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmaljoey&layout=compact&theme=radical)
 
-### ⏳ GitHub Streaks
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirmaljoey&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🔥 GitHub Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nirmaljoey&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -63,12 +80,11 @@
 
 ---
 
-### 🌐 Connect with Me
+### 📎 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmaljoy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/nirmaljoy/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirmaljoey)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:offic.nirmal@gmail.com)
+<a href="https://www.linkedin.com/in/nirmaljoy"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nirmaljoyofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/nirmaljoyparekunnel"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ---
 
